@@ -13,3 +13,4 @@ ASP.NET Security will not include Basic Authentication middleware due to its pot
 
 
 This project is part of ASP.NET Core. You can find samples, documentation and getting started instructions for ASP.NET Core at the [AspNetCore](https://github.com/aspnet/AspNetCore) repo.
+test
